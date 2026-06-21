@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>Copa do Mundo 2026</title>
-<link>https://www.fifa.com</link>
-<description>Notícias da Copa do Mundo 2026</description>
+  <channel>
+    <title>Copa do Mundo 2026</title>
+    <link>https://www.fifa.com/</link>
+    <description>Notícias da Copa do Mundo 2026</description>
 
-<item>
-<title>Teste RSS</title>
-<link>https://www.fifa.com</link>
-<description>Primeira notícia do feed.</description>
-<pubDate>Sat, 21 Jun 2026 12:00:00 GMT</pubDate>
-</item>
+    <item>
+      <title>Teste RSS</title>
+      <link>https://www.fifa.com/</link>
+      <description>Primeira entrada do feed.</description>
+      <pubDate>Sat, 21 Jun 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.fifa.com/teste1</guid>
+    </item>
 
-</channel>
+  </channel>
 </rss>
